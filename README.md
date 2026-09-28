@@ -334,13 +334,15 @@ Products change. Architecture should make change easier, not harder.
 
 <p align="center">
   <img
-    height="165em"
-    src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=github_dark&hide_border=true"
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=github_dark&hide_border=true"
   />
+</p>
 
+<p align="center">
   <img
-    height="165em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=github_dark&hide_border=true"
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&theme=github_dark&hide_border=true"
   />
 </p>
 
