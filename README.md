@@ -1,35 +1,37 @@
-# 👋 Hi, I'm Thiago
+# Hi, I'm Thiago
 
 ### Software Architect • CTO @ BMAI • AI & Automation Builder
 
-I design and build **software products, intelligent systems and AI-powered solutions** that connect technology with real business problems.
+I design and build **software products, intelligent systems and AI powered solutions** that connect technology with real business problems.
 
 My work sits at the intersection of **Software Architecture, Artificial Intelligence, Automation and Product Development**.
 
-Currently, I'm focused on building scalable applications, AI agents, integrations and digital products at **BMAI — AI & Tech Services**.
+Currently, I'm focused on building scalable applications, AI agents, integrations and digital products at **BMAI • AI & Tech Services**.
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🏗️ **Software Architect** focused on scalable and maintainable systems
-- 🧠 Building applications powered by **AI, LLMs and AI Agents**
-- ⚙️ Developing **automations, integrations and intelligent workflows**
-- 🔌 Designing **APIs, backend services and system integrations**
-- 📊 Working with **data, SQL and business intelligence**
-- 🚀 **CTO at BMAI — AI & Tech Services**
-- 💡 Turning business problems into **real software products**
-- 🎯 Strong interest in the intersection between **Technology, Product and Business**
+• **Software Architect** focused on scalable and maintainable systems  
+• Building applications powered by **AI, LLMs and AI Agents**  
+• Developing **automations, integrations and intelligent workflows**  
+• Designing **APIs, backend services and system integrations**  
+• Building modern interfaces with **HTML, CSS and JavaScript**  
+• Working with **data, SQL and business intelligence**  
+• **CTO at BMAI • AI & Tech Services**  
+• Turning business problems into **real software products**  
+• Strong interest in the intersection between **Technology, Product and Business**
 
 ---
 
-## 🧠 What I'm Focused On
+## What I'm Focused On
 
 ```text
 Software Architecture
 AI & LLM Applications
 AI Agents
 Backend Engineering
+Frontend Development
 Business Automation
 APIs & Integrations
 Databases & SQL
@@ -44,15 +46,15 @@ The goal is to understand the process first, structure the problem and then appl
 
 ---
 
-# 🛠️ Tech Stack
+# Tech Stack
 
-## Languages
+## Languages & Web
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,python,js,ts" />
+  <img src="https://skillicons.dev/icons?i=cs,python,js,html,css" />
 </p>
 
-**C# • Python • JavaScript • TypeScript**
+**C# • Python • JavaScript • HTML5 • CSS3**
 
 ---
 
@@ -63,6 +65,16 @@ The goal is to understand the process first, structure the problem and then appl
 </p>
 
 **.NET • Node.js • FastAPI • REST APIs • Backend Architecture**
+
+---
+
+## Frontend & UI
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+**HTML5 • CSS3 • JavaScript • Responsive Interfaces • UI Development**
 
 ---
 
@@ -88,16 +100,16 @@ The goal is to understand the process first, structure the problem and then appl
 
 Working with:
 
-- LLM-powered applications
-- AI Agents
-- Tool calling
-- AI workflows
-- Context engineering
-- Prompt engineering
-- RAG architectures
-- Business automation
-- AI integrations
-- Structured AI outputs
+• LLM powered applications  
+• AI Agents  
+• Tool calling  
+• AI workflows  
+• Context engineering  
+• Prompt engineering  
+• RAG architectures  
+• Business automation  
+• AI integrations  
+• Structured AI outputs  
 
 ---
 
@@ -111,7 +123,7 @@ Working with:
 
 ---
 
-# ⚡ What I Build
+# What I Build
 
 <p align="left">
   <img src="https://img.shields.io/badge/AI_Solutions-111111?style=for-the-badge&logo=openai&logoColor=white" />
@@ -119,38 +131,43 @@ Working with:
   <img src="https://img.shields.io/badge/Automation-111111?style=for-the-badge&logo=n8n&logoColor=white" />
   <img src="https://img.shields.io/badge/SaaS-111111?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/APIs-111111?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web_Apps-111111?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/Software_Architecture-111111?style=for-the-badge" />
 </p>
 
-### 🤖 AI Systems
+### AI Systems
 
-Applications where AI is part of the product architecture — not just an isolated chatbot.
+Applications where AI is part of the product architecture, not just an isolated chatbot.
 
-AI agents, copilots, intelligent workflows, business assistants and LLM-powered applications.
+AI agents, copilots, intelligent workflows, business assistants and LLM powered applications.
 
-### ⚙️ Automation
+### Automation
 
 Systems that connect tools, APIs and business processes to reduce repetitive work and improve operational efficiency.
 
-### 🏗️ Software Architecture
+### Software Architecture
 
-Designing systems with scalability, maintainability, modularity and long-term evolution in mind.
+Designing systems with scalability, maintainability, modularity and long term evolution in mind.
 
-### 🔌 APIs & Integrations
+### Web Applications
+
+Building responsive and functional interfaces using **HTML, CSS and JavaScript**, connected to backend services, APIs and AI systems.
+
+### APIs & Integrations
 
 Connecting platforms, internal systems, CRMs, communication channels and external services.
 
-### 🚀 SaaS Products
+### SaaS Products
 
-From business requirements and architecture to backend services, integrations, dashboards and product experiences.
+From business requirements and architecture to backend services, integrations, interfaces, dashboards and product experiences.
 
-### 📊 Intelligent Business Systems
+### Intelligent Business Systems
 
-Software that transforms operational data into information, automation, alerts and AI-generated insights.
+Software that transforms operational data into information, automation, alerts and AI generated insights.
 
 ---
 
-# 🧩 How I Think About Software
+# How I Think About Software
 
 ```text
 Business Problem
@@ -160,6 +177,8 @@ Process Understanding
 Requirements
       ↓
 Architecture
+      ↓
+Frontend + Backend
       ↓
 Data & Integrations
       ↓
@@ -172,7 +191,7 @@ Measurement
 Iteration
 ```
 
-Technology should solve a problem — not create another one.
+Technology should solve a problem, not create another one.
 
 Before adding AI, I try to understand:
 
@@ -190,11 +209,11 @@ Then I design the technology around it.
 
 ---
 
-# 🚀 BMAI — AI & Tech Services
+# BMAI • AI & Tech Services
 
 ### CTO & Software Architect
 
-At **BMAI**, I work on the technology behind AI-powered products, automations and intelligent business systems.
+At **BMAI**, I work on the technology behind AI powered products, automations and intelligent business systems.
 
 Our focus is not simply adding AI to existing workflows.
 
@@ -220,42 +239,46 @@ to build systems that companies can actually use.
 
 ## What We're Building
 
-### 🧠 AI-Powered Applications
+### AI Powered Applications
 
 Products where LLMs and AI agents can understand context, access tools, analyze information and execute workflows.
 
-### 🤖 AI Agents
+### AI Agents
 
 Agents designed for different business areas, including:
 
-- Sales
-- Customer Service
-- Support
-- Operations
-- Finance
-- HR
-- Internal Knowledge
-- Business Intelligence
+• Sales  
+• Customer Service  
+• Support  
+• Operations  
+• Finance  
+• HR  
+• Internal Knowledge  
+• Business Intelligence  
 
-### 🔌 Connected Systems
+### Connected Systems
 
 Integrations between applications, APIs, databases and communication channels.
 
-### 📊 Intelligent Dashboards
+### Intelligent Dashboards
 
-Operational data combined with AI-generated insights, recommendations and alerts.
+Operational data combined with AI generated insights, recommendations and alerts.
 
-### ⚙️ Business Automation
+### Business Automation
 
 Automating repetitive processes while maintaining human control over critical actions.
 
-### 🚀 Digital Products
+### Digital Experiences
 
-Building internal platforms, SaaS products and AI-first applications.
+Web interfaces, dashboards and product experiences built with modern frontend technologies.
+
+### Digital Products
+
+Building internal platforms, SaaS products and AI first applications.
 
 ---
 
-# 🧠 Areas I Study & Build Around
+# Areas I Study & Build Around
 
 ```text
 Artificial Intelligence       ████████████████████
@@ -263,6 +286,8 @@ Software Architecture         ████████████████�
 LLM Applications              ████████████████████
 Automation                    ███████████████████░
 Backend Engineering           ███████████████████░
+Frontend Development          ██████████████████░░
+HTML & CSS                    ██████████████████░░
 Databases & SQL               ██████████████████░░
 Product Engineering           ███████████████████░
 APIs & Integrations           ███████████████████░
@@ -271,28 +296,31 @@ Business & Technology         ████████████████�
 
 ---
 
-# 🔬 Topics I'm Exploring
+# Topics I'm Exploring
 
-- Agentic AI
-- Multi-Agent Systems
-- Context Engineering
-- AI Orchestration
-- Retrieval-Augmented Generation
-- LLM Tool Usage
-- Long-Term AI Memory
-- AI Application Architecture
-- Human-in-the-Loop Systems
-- AI Observability
-- Workflow Automation
-- Event-Driven Architectures
-- Distributed Systems
-- Software Scalability
-- Product Architecture
-- AI-Native SaaS
+• Agentic AI  
+• Multi Agent Systems  
+• Context Engineering  
+• AI Orchestration  
+• Retrieval Augmented Generation  
+• LLM Tool Usage  
+• Long Term AI Memory  
+• AI Application Architecture  
+• Human in the Loop Systems  
+• AI Observability  
+• Workflow Automation  
+• Event Driven Architectures  
+• Distributed Systems  
+• Software Scalability  
+• Product Architecture  
+• AI Native SaaS  
+• Web Applications  
+• Frontend Architecture  
+• UI Engineering  
 
 ---
 
-# 💡 Engineering Principles
+# Engineering Principles
 
 ### 01. Architecture Before Complexity
 
@@ -308,7 +336,7 @@ Bad processes become worse when automated.
 
 ### 04. Humans Should Control Critical Decisions
 
-AI can execute a lot — but important actions should remain observable and controllable.
+AI can execute a lot, but important actions should remain observable and controllable.
 
 ### 05. Software Should Create Business Value
 
@@ -320,62 +348,23 @@ Products change. Architecture should make change easier, not harder.
 
 ---
 
-# 🏗️ Typical Architecture
-
-```text
-                        ┌─────────────────┐
-                        │     Client      │
-                        │ Web / App / API │
-                        └────────┬────────┘
-                                 │
-                                 ▼
-                       ┌───────────────────┐
-                       │    Application    │
-                       │      Layer        │
-                       └─────────┬─────────┘
-                                 │
-              ┌──────────────────┼──────────────────┐
-              │                  │                  │
-              ▼                  ▼                  ▼
-
-       ┌─────────────┐    ┌─────────────┐    ┌──────────────┐
-       │   Backend   │    │ AI / LLMs   │    │ Automations  │
-       │  Services   │    │   Agents    │    │  Workflows   │
-       └──────┬──────┘    └──────┬──────┘    └──────┬───────┘
-              │                  │                  │
-              └──────────────────┼──────────────────┘
-                                 │
-                                 ▼
-                     ┌─────────────────────┐
-                     │ APIs & Integrations │
-                     └──────────┬──────────┘
-                                │
-                                ▼
-                     ┌─────────────────────┐
-                     │ Data & Databases    │
-                     │ SQL / Vector / APIs │
-                     └─────────────────────┘
-```
-
----
-
-# 📊 GitHub Stats
+# GitHub Stats
 
 <p align="center">
   <img
     height="165em"
-    src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=github_dark&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=github_dark&hide_border=true"
   />
 
   <img
     height="165em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=github_dark&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=github_dark&hide_border=true"
   />
 </p>
 
 ---
 
-# 🌐 Connect With Me
+# Connect With Me
 
 <p align="left">
 
