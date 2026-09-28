@@ -278,24 +278,6 @@ Building internal platforms, SaaS products and AI first applications.
 
 ---
 
-# Areas I Study & Build Around
-
-```text
-Artificial Intelligence       ████████████████████
-Software Architecture         ████████████████████
-LLM Applications              ████████████████████
-Automation                    ███████████████████░
-Backend Engineering           ███████████████████░
-Frontend Development          ██████████████████░░
-HTML & CSS                    ██████████████████░░
-Databases & SQL               ██████████████████░░
-Product Engineering           ███████████████████░
-APIs & Integrations           ███████████████████░
-Business & Technology         ███████████████████░
-```
-
----
-
 # Topics I'm Exploring
 
 • Agentic AI  
